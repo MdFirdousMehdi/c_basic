@@ -59,15 +59,6 @@ int main()
 	
 	
 		
-/* OUTPUT:
-enter the rows of matrix1:2
-enter the columns of matrix1:2                              enter the rows of matrix 2:2                                enter the columns of matrix 2:2                             enter the elements of the matrix 1:1                        2                                                           3                                                           4                                                           enter the elements of the matrix 2:1                        2                                                           3                                                           4
-The result of multiplication is:7
-10
-15
-22
-
-*/
 
 
 
