@@ -22,6 +22,4 @@ int main()
 
 }
 
-
-/*OUTPUT:
-The amstrong numbers are:                                   1       153     370     371     407    */                     
+                   
