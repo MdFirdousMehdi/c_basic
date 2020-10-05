@@ -22,7 +22,3 @@ int main()
 	return 0;
 }
 
-/* OUTPUT:
-
-enter the number:4
-4       number is even     */                                 
